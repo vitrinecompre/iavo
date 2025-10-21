@@ -1,0 +1,6 @@
+{
+  "name": "Rock Paper Scissors",
+  "description": "A classic game of Rock, Paper, Scissors with a clean, modern interface. Play against the computer and see who wins!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
